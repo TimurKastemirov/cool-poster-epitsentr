@@ -11,9 +11,13 @@
     "epitsentr-xml",
     "tilda-csv"
   ],
+  "repository": {
+    "url": "git@github.com:TimurKastemirov/cool-poster-epitsentr.git"
+  },
   "author": "Tymur Kastemirov",
   "license": "MIT",
   "dependencies": {
-    "csv-parser": "^3.0.0"
+    "csv-parser": "^3.0.0",
+    "json-2-csv": "^3.10.2"
   }
 }
