@@ -12,5 +12,8 @@
     "tilda-csv"
   ],
   "author": "Tymur Kastemirov",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
 }
